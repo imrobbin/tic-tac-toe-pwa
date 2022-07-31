@@ -4,7 +4,7 @@ Simple tic-tac-toe game built with Angular 14 and PWA. It was inspired from the 
 
 Online demo: [https://github.com/imrobbin/tic-tac-toe-pwa](https://github.com/imrobbin/tic-tac-toe-pwa)
 
-![tic-tac-toe demo](https://github.com/imrobbin/tic-tac-toe-pwa/master/doc-images/tic-tac-toe-pwa.png)
+![tic-tac-toe demo](https://raw.githubusercontent.com/imrobbin/tic-tac-toe-pwa/master/doc-images/tic-tac-toe-pwa.png)
 
 ## Testing
 
