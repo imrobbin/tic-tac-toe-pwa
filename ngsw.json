@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1659296414518,
+  "timestamp": 1659297094257,
   "index": "https://imrobbin.github.io/tic-tac-toe-pwa/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "https://imrobbin.github.io/tic-tac-toe-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://imrobbin.github.io/tic-tac-toe-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://imrobbin.github.io/tic-tac-toe-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://imrobbin.github.io/tic-tac-toe-pwa/index.html": "c0b2f9a07b5c9bbcd56a8bce80291126eb3c9cd3",
+    "https://imrobbin.github.io/tic-tac-toe-pwa/index.html": "8494ddedf7eb6e3b4ea20f20385008d35db86429",
     "https://imrobbin.github.io/tic-tac-toe-pwa/main.77e6649246df767c.js": "3649faaf41a876438e004e8761a859fe2ebd0c4a",
     "https://imrobbin.github.io/tic-tac-toe-pwa/manifest.webmanifest": "c1cce4c8ac905affc61faf244b7bb72895411a2f",
     "https://imrobbin.github.io/tic-tac-toe-pwa/polyfills.778ce0d708eeb508.js": "ef24f0a81e762df125b12accbb9996463620a7be",
