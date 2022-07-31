@@ -2,7 +2,7 @@
 
 Simple tic-tac-toe game built with Angular 14 and PWA. It was inspired from the [introduction tutorial for React.js](https://reactjs.org/tutorial/tutorial.html).
 
-Online demo: [https://github.com/imrobbin/tic-tac-toe-pwa](https://github.com/imrobbin/tic-tac-toe-pwa)
+Online demo: [https://imrobbin.github.io/tic-tac-toe-pwa/](https://imrobbin.github.io/tic-tac-toe-pwa/)
 
 ![tic-tac-toe demo](https://raw.githubusercontent.com/imrobbin/tic-tac-toe-pwa/master/doc-images/tic-tac-toe-pwa.png)
 
