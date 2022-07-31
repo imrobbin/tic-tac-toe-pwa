@@ -1,0 +1,27 @@
+<main>
+  <section class="title">
+    <h1>Tic tac toe</h1>
+  </section>
+
+  <section class="status">
+    <span>Status</span>
+    <h1 *ngIf="winner">
+      Winner <span [class]="winner === 'O' ? 'o' : 'x'"> {{ winner }}</span>
+    </h1>
+    <h1 *ngIf="!winner">
+      Player
+      <span [class]="player === 'O' ? 'o' : 'x'"> {{ player }}</span> Turn
+    </h1>
+  </section>
+  <section class="square-board" #squareBoard>
+    <app-square
+      *ngFor="let square of squares; let i = index"
+      [value]="square"
+      (click)="makeMove(i)"
+    ></app-square>
+  </section>
+
+  <section>
+    <button class="button" (click)="newGame()">Start new Game</button>
+  </section>
+</main>
